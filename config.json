@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpecrypt",
+        "uuid": 13383468,
+        "checksum": "etafcg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
